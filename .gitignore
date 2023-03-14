@@ -1,6 +1,2 @@
-./
-../
-.gitignore
+.pyre/
 .idea/
-README.md
-venv/
